@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://demo-classic-gutter-company-inc.dream-surge.com/sitemap-index.xml
